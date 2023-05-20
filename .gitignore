@@ -1,0 +1,7 @@
+/react-complete-guide-code/*
+react-complete-guide-code/*
+node_modules/*
+*/node_modules/*
+*/node_modules/
+
+.DS_Store
